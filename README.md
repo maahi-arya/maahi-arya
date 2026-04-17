@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mamta 👋
 
-<!--
-**maahi-arya/maahi-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | ReactJS  
+🎓 BCA Student  
+🚀 Building clean and interactive web interfaces  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced ReactJS
+- Backend basics (Node.js, Express)
+
+---
+
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript  
+- ReactJS  
+- MongoDB (Basics)
+
+---
+
+## 📌 Projects
+- 📝 Notes Management App  
+- 🌐 Portfolio Website  
+
+---
+
+## 🎯 Goals
+- Crack placement in a good tech company  
+- Start freelancing in web development  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/maahi-arya
