@@ -2,20 +2,32 @@
 
 💻 Frontend Developer | ReactJS  
 🎓 BCA Student  
-🚀 Building clean and interactive web interfaces  
+🚀 Passionate about Building clean and interactive web interfaces  
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced ReactJS
-- Backend basics (Node.js, Express)
+- Advance Backend development & API Design
 
 ---
 
 ## 🔧 Tech Stack
-- HTML, CSS, JavaScript  
-- ReactJS  
-- MongoDB (Basics)
+
+💻 Frontend:
+HTML | CSS | JavaScript | ReactJS  
+
+⚙️ Backend:
+Node.js | Express.js  
+
+🗄️ Database:
+MongoDB  
+
+☕ Programming:
+Java  
+
+🎨 Libraries & Tools:
+LocomotiveJS | SwiperJS | Animation Libraries  
 
 ---
 
@@ -26,8 +38,8 @@
 ---
 
 ## 🎯 Goals
-- Crack placement in a good tech company  
-- Start freelancing in web development  
+- To grow as a Full-Stack Developer by working on real-world projects,
+- improving problem-solving skills, and building scalable web applications.
 
 ---
 
