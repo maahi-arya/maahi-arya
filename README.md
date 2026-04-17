@@ -14,19 +14,19 @@
 
 ## 🔧 Tech Stack
 
-💻 Frontend:
+💻 Frontend: 
 HTML | CSS | JavaScript | ReactJS  
 
-⚙️ Backend:
+⚙️ Backend: 
 Node.js | Express.js  
 
-🗄️ Database:
+🗄️ Database: 
 MongoDB  
 
-☕ Programming:
+☕ Programming: 
 Java  
 
-🎨 Libraries & Tools:
+🎨 Libraries & Tools: 
 LocomotiveJS | SwiperJS | Animation Libraries  
 
 ---
